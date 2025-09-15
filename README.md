@@ -1,2 +1,2 @@
-# csecsu.github.io
+# Luxora.github.io
 Luxora — Curated Luxury Website
